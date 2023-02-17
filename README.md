@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Talha, Im a Student👨‍💻Machine Learning | Deep Learning | Computer Vision Enthusiast 🚀</div>  
+### <div align="center">My name is Talha Shakeel, Im Machine Learning | Deep Learning | Computer-vision Enthusiast 🚀</div>  
   
 
 - 🔭 I’m currently working on Machine Learning Projects   
