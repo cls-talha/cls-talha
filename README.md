@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://thumbs.gfycat.com/LastingDirectGreendarnerdragonfly-max-1mb.gif" align="center" style="width: 100%" />
+<img src="https://gifdb.com/images/file/funny-tabby-cat-wave-4o9i6m1j4p4w0433.gif" align="center" style="width: 150%" />
 </div>  
   
 
-### <div align="center">My name is Talha Shakeel, Im Machine Learning | Deep Learning | Computer-vision Enthusiast 🚀</div>  
+### <div align="center">My name is Talha Shakeel, Im into Machine Learning | Deep Learning | Computer-vision stuffs 🚀</div>  
   
 
-- 🔭 I’m currently working on Machine Learning Projects   
+- 🔭 I want to make saxi stuffs   
   
 
-- 🌱 I’m currently learning Image Processing and Deep Learning  
+- 🌱 I’m currently learning and working on Image Processing and Deep Learning tasks 
   
 
 - ❓ Ask me about anything related to my field  
   
 
-- ⚡ Fun fact about me:  BTW, I use ARCH   
+- ⚡ Fun fact about me:  "BTW, I use ARCH"   
   
 
 <br/>  
@@ -57,7 +57,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
-<a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
 </div>
 
 </td></tr></table>  
