@@ -9,7 +9,7 @@
 - 🔭 I want to make saxi stuffs   
   
 
-- 🌱 I’m currently learning and working on Image Processing and Deep Learning tasks 
+- 🌱 I’m currently learning and working on Image Processing and Deep Learning projects 
   
 
 - ❓ Ask me about anything related to my field  
@@ -17,8 +17,6 @@
 
 - ⚡ "BTW, I use ARCH"
 
-
-[-] I want to make saxi stuffs
   
 
 <br/>  
