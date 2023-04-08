@@ -15,7 +15,10 @@
 - ❓ Ask me about anything related to my field  
   
 
-- ⚡ Fun fact about me:  "BTW, I use ARCH"   
+- ⚡ "BTW, I use ARCH"
+
+
+[-] I want to make saxi stuffs
   
 
 <br/>  
